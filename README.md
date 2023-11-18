@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jeevake Perera</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevake&label=Profile%20views&color=0e75b6&style=flat" alt="jeevake" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kjmperera@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="160" src="https://github-profile-trophy.vercel.app/?username=jeevake" alt="jeevake" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevake&show_icons=true&locale=en" alt="jeevake" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevake&" alt="jeevake" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="160" src="https://github-profile-trophy.vercel.app/?username=jeevake" alt="jeevake" /></a> </p>
 
