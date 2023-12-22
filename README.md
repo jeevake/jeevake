@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **kjmperera@gmail.com**
 
