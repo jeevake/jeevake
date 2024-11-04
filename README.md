@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **kjmperera@gmail.com**
+- 📫 How to reach me **jeevakeperera@gmail.com**
 
 
 
