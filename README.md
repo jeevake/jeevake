@@ -1,7 +1,7 @@
 ![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Jeevake Perera</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • TypeScript</h3>
+<h3 align="center">Full Stack Developer | ERP Developer (Odoo • NetSuite)</h3>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -10,7 +10,8 @@
 </p>
 
 ### 👨‍💻 About Me
-- 💻 Full stack developer focused on building scalable web applications  
+- 💻 Full stack developer focused on scalable web and ERP solutions  
+- ⚙️ Experience with **Odoo (Python)** and **NetSuite (SuiteScript, Suitelets, Workflows)**  
 - ⚡ Working with **React, Node.js, TypeScript, and modern web stacks**  
 - 📚 Continuously improving and exploring new technologies  
 - 📫 Reach me at: **jeevakeperera@gmail.com**
